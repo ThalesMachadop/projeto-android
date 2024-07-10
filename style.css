@@ -38,9 +38,7 @@ header > p {
 }
 
 header > nav {
-    margin: 50px;
-    margin-left: 20px;
-
+    padding: 50px 50px 50px 20px;
 }
 
 header > nav > a {
