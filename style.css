@@ -34,10 +34,9 @@ header > h1 {
 header > p {
     text-align: center;
     margin: 1px;
-    padding: 1px;
+    padding: 20px;
     font-size: medium;
 }
-
 header > nav {
     padding: 10px;
 }
